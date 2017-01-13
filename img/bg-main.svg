@@ -1,0 +1,23 @@
+<svg id="bg-main.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="984" viewBox="0 0 1920 984">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e98457;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #e98457;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <image id="Layer_0" data-name="Layer 0" width="1920" height="984" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAPYAQMAAAAB/nYMAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEX///8AAABVwtN+AAAAAWJLR0QB/wIt3gAAAAlwSFlzAAALEgAACxIB0t1+/AAAAP1JREFUeNrtwYEAAAAAw6D5U1/hAFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK8BnoUAAZbPHiYAAAAASUVORK5CYII="/>
+  <path id="Rectangle_6_copy_2" data-name="Rectangle 6 copy 2" class="cls-1" d="M1343,34h6V64h-6V34Zm-12,12h30v6h-30V46Z"/>
+  <path id="Rectangle_7_copy" data-name="Rectangle 7 copy" class="cls-2" d="M353,237l44,10-34,34Z"/>
+</svg>
